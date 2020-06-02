@@ -1,7 +1,4 @@
-
-console.log("hello");
-
-// this is my first loop!
-for (i=0; i < 100; i++) {
-    console.log(`${i}th iteration my name is Hyunwook`);
-}
+var helloworld = "hithere"
+console.log(helloworld);
+helloworld = 1;
+console.log(helloworld);
